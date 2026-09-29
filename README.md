@@ -1,5 +1,8 @@
 # 💫 About Me:
-student at Summa College<br>intern at SimplePark<br>
+🎓 Student at Summa College
+💼 Intern at SimplePark
+
+![Summa College](https://img.shields.io/badge/Summa%20College-%23000000.svg?style=for-the-badge&logoColor=white) ![SimplePark](https://img.shields.io/badge/SimplePark-%23000000.svg?style=for-the-badge&logoColor=white)
 
 
 ## 🌐 Socials:
